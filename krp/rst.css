@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+
+}
+header {
+    background-color:skyblue;
+    text-align: center;
+    padding: 15px;
+    box-shadow:0 0 20px 2px brown;
+}
+nav {
+    background-color:rgb(39, 34, 34);
+    height: 50px;
+}
+
+nav ul {
+    display: flex;
+    justify-content:right;
+}
+nav li {
+    margin: 0 20px;
+    margin-top: 10px;
+}
+
+nav a {
+    color: #fff;
+    font-weight:normal;
+}
+h2{
+    font-family: cursive;
+    font-size:x-large;
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+h1{
+font-family: cursive;
+}
+h1{
+    background-color: skyblue;
+}
+body{
+    color:black;
+}
+header{
+    background-color: palevioletred;
+}
